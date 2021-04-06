@@ -1,4 +1,5 @@
 # OSSP_TA
-OSSP repo
-"Work hard Play hard"
-2021/03/24 Wed
+5주차 AWS EC2 실습 
+
+https://www.notion.so/AWS-EC2-2b71f2f52cf346258ae4c92d2e9234b5
+
